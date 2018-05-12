@@ -4,3 +4,6 @@
 [submodule "insystive"]
 	path = insystive
 	url = git@github.com:jfredrickson/insystive.git
+[submodule "sharing-economy"]
+	path = sharing-economy
+	url = git@github.com:jfredrickson/sharing-economy.git
