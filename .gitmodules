@@ -1,3 +1,6 @@
 [submodule "uhs.zapcom.net"]
 	path = uhs.zapcom.net
 	url = git@github.com:jfredrickson/uhs.zapcom.net
+[submodule "insystive"]
+	path = insystive
+	url = git@github.com:jfredrickson/insystive.git
