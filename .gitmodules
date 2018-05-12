@@ -1,0 +1,3 @@
+[submodule "uhs.zapcom.net"]
+	path = uhs.zapcom.net
+	url = git@github.com:jfredrickson/uhs.zapcom.net
